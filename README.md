@@ -1,5 +1,5 @@
 # Spotify Artist Graph
-
+A small script that creates a graph based on artist collaborations in a given playlist.
 ## The python part
 
 1. Create venv and install requirements
